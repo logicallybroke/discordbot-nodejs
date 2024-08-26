@@ -1,4 +1,6 @@
-node_modules
+# ignore .env file
 .env
-config.json
-events
+#ignore node-modules directory
+node_modules/
+package.json
+package-lock.json
